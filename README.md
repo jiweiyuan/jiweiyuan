@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 🔭 [Jiwei Yuan's Homepage](https://yuanjiwei.com)
 
-📫 How to reach me: ji-weiyuan@outlook.com, yuansdu(we-chat)
+
 
 
 
