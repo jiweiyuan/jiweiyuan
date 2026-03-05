@@ -9,7 +9,7 @@
 #### Projects
 
 - [RunBrowser](https://github.com/jiweiyuan/runbrowser) — AI agent browser automation on your real Chrome via native CDP — your logins, cookies, and extensions included.
-- [Talkd](https://github.com/jiweiyuan/talkd) — Peer-to-peer communication for AI agents.
-- [Feedar](https://github.com/jiweiyuan/feedar) — Feedly for AI Agent.
-- [TTS CLI](https://github.com/jiweiyuan/ttscli) — TTS CLI, powered by Qwen3 TTS.
-- [Skilluse](https://github.com/skilluse/skilluse) — Agent Skills Registry & CLI.
+- [Talkd](https://github.com/jiweiyuan/talkd) — P2P communication for AI agents. No server, no setup, one 17MB binary. End-to-end encrypted.
+- [Feedar](https://github.com/jiweiyuan/feedar) — RSS/Atom feed reader designed for AI agents. Like Feedly, but for your agent.
+- [TTS CLI](https://github.com/jiweiyuan/ttscli) — Text-to-speech CLI with voice cloning. Supports MLX (Apple Silicon) and PyTorch, powered by Qwen3-TTS.
+- [Skilluse](https://github.com/skilluse/skilluse) — A skills registry for AI agents based on GitHub. Discover, install, and publish skills across Claude Code, Cursor, Windsurf, and more.
