@@ -14,4 +14,4 @@
 - [Tunelo](https://github.com/jiweiyuan/tunelo) ![GitHub stars](https://img.shields.io/github/stars/jiweiyuan/tunelo?style=flat-square) — Open-source ngrok. Expose localhost via QUIC tunnel.
 - [Skilluse](https://github.com/skilluse/skilluse) ![GitHub stars](https://img.shields.io/github/stars/skilluse/skilluse?style=flat-square) — Skills registry for AI coding agents, GitHub-native.
 - [ACI](https://github.com/aipotheosis-labs/aci) ![GitHub stars](https://img.shields.io/github/stars/aipotheosis-labs/aci?style=flat-square) — 600+ tool integrations for AI agents. Function calling + MCP.
-- [Zypher Agent](https://github.com/corespeed-io/zypher-agent) ![GitHub stars](https://img.shields.io/github/stars/corespeed-io/zypher-agent?style=flat-square) — Minimal AI agent framework. Full control over tools and providers.
+- [Zypher](https://github.com/corespeed-io/zypher-agent) ![GitHub stars](https://img.shields.io/github/stars/corespeed-io/zypher-agent?style=flat-square) — Minimal AI agent framework. Full control over tools and providers.
