@@ -11,13 +11,13 @@
 <span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════════════════╝</span>
 
 <span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/aipotheosis-labs/aci">ACI</a> ★4.7k — 600+ tool integrations for AI agents
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/jiweiyuan/tunelo">Tunelo</a> ★400 — Expose localhost via QUIC tunnel
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/corespeed-io/wechatbot">WeChat Bot</a> ★358 — WeChat bot SDK for AI agents
+<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/jiweiyuan/tunelo">Tunelo</a> ★412 — Expose localhost via QUIC tunnel
+<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/corespeed-io/wechatbot">WeChat Bot</a> ★368 — WeChat bot SDK for AI agents
 <span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/corespeed-io/zypher-agent">Zypher Agent</a> ★348 — Minimal AI agent framework
 <span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/skilluse/skilluse">Skilluse</a> ★48 — Skills registry for AI coding agents
 <span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/runbrowser/runbrowser">RunBrowser</a> ★9 — CDP browser automation on your real Chrome
 <span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/jiweiyuan/ttscli">TTS CLI</a> ★9 — Text-to-speech CLI with voice cloning
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/sigcli/sigcli">SigCLI</a> ★8 — Give AI agents credentials without secrets
+<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/sigcli/sigcli">SigCLI</a> ★122 — Give AI agents credentials without secrets
 <span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/jiweiyuan/feedar">Feedar</a> ★1 — RSS reader for AI agents
 <span style="color: #008080; text-decoration-color: #008080">┗━━ </span><a href="https://yuanjiwei.com">Blog</a>
 </pre>
