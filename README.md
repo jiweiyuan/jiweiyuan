@@ -1,23 +1,44 @@
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔══════════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ══════════════════════════════╗</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                                      <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span> Software engineer, passionate about building                         <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span> infrastructure for AI agents.                                        <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                                      <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span> I enjoy architecture analysis and research, and write about          <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span> system design and practical engineering at <a href="https://yuanjiwei.com">yuanjiwei.com</a>.            <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                                      <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span> <span style="color: #008000; text-decoration-color: #008000">Find me on </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://twitter.com/JiweiYuan">X</a></span><span style="color: #008000; text-decoration-color: #008000"> · </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://www.linkedin.com/in/jiweiyuan/">LinkedIn</a></span><span style="color: #008000; text-decoration-color: #008000"> · </span><span style="color: #008000; text-decoration-color: #008000; font-weight: bold"><a href="https://yuanjiwei.com">Blog</a></span>                                       <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">║</span>                                                                      <span style="color: #000080; text-decoration-color: #000080">║</span>
-<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════════════════╝</span>
+# Hi, I'm Jiwei
 
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/aipotheosis-labs/aci">ACI</a> ★4.7k — 600+ tool integrations for AI agents
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/jiweiyuan/tunelo">Tunelo</a> ★412 — Expose localhost via QUIC tunnel
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/corespeed-io/wechatbot">WeChat Bot</a> ★368 — WeChat bot SDK for AI agents
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/corespeed-io/zypher-agent">Zypher Agent</a> ★348 — Minimal AI agent framework
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/skilluse/skilluse">Skilluse</a> ★48 — Skills registry for AI coding agents
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/runbrowser/runbrowser">RunBrowser</a> ★9 — CDP browser automation on your real Chrome
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/jiweiyuan/ttscli">TTS CLI</a> ★9 — Text-to-speech CLI with voice cloning
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/sigcli/sigcli">SigCLI</a> ★122 — Give AI agents credentials without secrets
-<span style="color: #008080; text-decoration-color: #008080">┣━━ </span><a href="https://github.com/jiweiyuan/feedar">Feedar</a> ★1 — RSS reader for AI agents
-<span style="color: #008080; text-decoration-color: #008080">┗━━ </span><a href="https://yuanjiwei.com">Blog</a>
-</pre>
+**London** | **AI agent infra builder**
+
+I build agent-native software — coding agents, personal agents, agent runtime, and frameworks. I dig into how production systems are architected and write about system design and engineering at [yuanjiwei.com](https://yuanjiwei.com).
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+
+## Start Here
+
+- **[ACI](https://github.com/aipotheosis-labs/aci)** (4.8k+ stars) — 600+ tool integrations for AI agents
+- **[SigCLI](https://github.com/sigcli/sigcli)** (258+ stars) — give AI agents credentials without secrets
+- **[WeChat Bot](https://github.com/corespeed-io/wechatbot)** (498+ stars) — WeChat bot SDK for AI agents
+- **[Tunelo](https://github.com/jiweiyuan/tunelo)** (425+ stars) — expose localhost via QUIC tunnel
+- **[Zypher Agent](https://github.com/corespeed-io/zypher-agent)** (336+ stars) — minimal AI agent framework
+
+## Projects
+
+### Agent Platforms & Frameworks
+
+- **[ACI](https://github.com/aipotheosis-labs/aci)** — open-source tool-calling platform with a unified MCP server
+- **[Zypher Agent](https://github.com/corespeed-io/zypher-agent)** — minimal framework with full control over tools, providers, and execution
+- **[MCP Gateway](https://github.com/aipotheosis-labs/gate22)** — MCP gateway & control plane governing which tools agents can use
+- **[Skilluse](https://github.com/skilluse/skilluse)** — skills registry & CLI for AI coding agents
+
+### Agent CLIs & Tools
+
+- **[SigCLI](https://github.com/sigcli/sigcli)** — auth CLI & proxy: give agents access, not your credentials
+- **[Tunelo](https://github.com/jiweiyuan/tunelo)** — expose localhost via QUIC tunnel
+- **[WeChat Bot](https://github.com/corespeed-io/wechatbot)** — WeChat bot SDK for AI agents
+- **[RunBrowser](https://github.com/runbrowser/runbrowser)** — CDP browser automation on your real Chrome
+- **[TTS CLI](https://github.com/jiweiyuan/ttscli)** — text-to-speech CLI, powered by Qwen3 TTS
+- **[Feedar](https://github.com/jiweiyuan/feedar)** — RSS reader for AI agents
+
+## Find me
+
+[X](https://twitter.com/JiweiYuan) · [LinkedIn](https://www.linkedin.com/in/jiweiyuan/) · [Blog](https://yuanjiwei.com)
